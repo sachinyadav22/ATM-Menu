@@ -1,2 +1,2 @@
 from Atm_class import Atm
-axix = Atm()
+SBI = Atm()
